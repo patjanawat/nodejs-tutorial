@@ -1,0 +1,4 @@
+
+nodejsbasic/node_modules/**/*
+package-lock.json
+nodejsbasic/bin/www
